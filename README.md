@@ -1,2 +1,2 @@
-# Taller_Bots_en_Telegram
-taller 1
+# Bots-in-Telegram
+Bot workshop in telegram using pycharm
